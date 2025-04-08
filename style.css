@@ -1,7 +1,7 @@
 .jd-app{color:#fae55f;overflow:visible;background:#000000}.jd-app{box-shadow:0 150px #000000 inset}
 
  body, img { cursor:url(https://xatimg.com/image/5I5QbW8yfE6k.png), auto;}
-
+  
 
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700');
@@ -11,7 +11,7 @@
 	 margin: 20px;
 }
  img {
-	 max-height:700px;
+	 max-height: 400px;
 	 margin: auto;
 	 display: inline-block;
 }
@@ -21,11 +21,11 @@
 }
  .card {
 	 display: inline-block;
-	 width: 400 px;
+	 width: 500 px;
 	 padding: 1em;
 	 border-radius: 15px;
 	 margin: 10px;
-	 background: ;
+	 background: #000000;
 	 text-align: left;
 	 box-shadow: 0px 5px 20px -10px #111;
 	 position: relative;
@@ -122,7 +122,7 @@
 	 background: linear-gradient(140deg, rgba(255, 167, 249, 1) 0%, rgba(255, 44, 195, 1) 39%, rgba(255, 227, 167, 1) 100%);
 }
  .card--psychic .card__type {
-	 background: #f7e302;
+	 background: #ff2cc3;
 }
  .card--dark {
 	 background: linear-gradient(20deg, rgba(25, 25, 25, 1) 0%, rgba(16, 11, 50, 1) 33%, rgba(92, 2, 73, 1) 100%);
@@ -181,4 +181,7 @@
 	 transform: translateY(-10px);
 }
  
+}
 
+*, body, img { cursor:url(https://xatimg.com/image/dR7hjnRmqGWI.png), auto;}
+  
